@@ -1,0 +1,4 @@
+#----- Question: Which of the following tasks do you think are good candidates for automation? Check all that apply.
+    # Answer: 
+    3. Installing software on laptops given to new employees when they are hired
+    4. Periodically scanning the disk usage of a group of fileservers
